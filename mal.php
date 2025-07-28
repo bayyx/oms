@@ -28,21 +28,21 @@
     <link rel="icon" href="https://www.omsapnstru.com/data/other/favicon.ico" sizes="192x192" />
     <link rel="apple-touch-icon" href="https://www.omsapnstru.com/data/other/favicon.ico" />
     <link rel="alternate" hreflang="x-default" href="https://www.omsapnstru.com" />
-    <link rel="alternate" hreflang="tr" href="https://flymarka226.com.tr/" />
-    <link rel="alternate" hreflang="de" href="https://flymarka226.com.tr/" />
-    <link rel="alternate" hreflang="fr" href="https://flymarka226.com.tr/" />
-    <link rel="alternate" hreflang="gr" href="https://flymarka226.com.tr/" />
-    <link rel="alternate" hreflang="au" href="https://flymarka226.com.tr/" />
-    <link rel="alternate" hreflang="az" href="https://flymarka226.com.tr/" />
-    <link rel="alternate" hreflang="pt" href="https://flymarka226.com.tr/" />
-    <link rel="alternate" hreflang="ru" href="https://flymarka226.com.tr/" />
-    <link rel="alternate" hreflang="uk" href="https://flymarka226.com.tr/" />
-    <link rel="alternate" hreflang="kk" href="https://flymarka226.com.tr/" />
-    <link rel="alternate" hreflang="ar" href="https://flymarka226.com.tr/" />
-    <link rel="alternate" hreflang="en" href="https://flymarka226.com.tr/" />
-    <link rel="alternate" hreflang="es" href="https://flymarka226.com.tr/" />
-    <link rel="alternate" hreflang="pl" href="https://flymarka226.com.tr/" />
-    <link rel="alternate" hreflang="ua" href="https://flymarka226.com.tr/" />
+    <link rel="alternate" hreflang="tr" href="https://flymarka231.com.tr/" />
+    <link rel="alternate" hreflang="de" href="https://flymarka231.com.tr/" />
+    <link rel="alternate" hreflang="fr" href="https://flymarka231.com.tr/" />
+    <link rel="alternate" hreflang="gr" href="https://flymarka231.com.tr/" />
+    <link rel="alternate" hreflang="au" href="https://flymarka231.com.tr/" />
+    <link rel="alternate" hreflang="az" href="https://flymarka231.com.tr/" />
+    <link rel="alternate" hreflang="pt" href="https://flymarka231.com.tr/" />
+    <link rel="alternate" hreflang="ru" href="https://flymarka231.com.tr/" />
+    <link rel="alternate" hreflang="uk" href="https://flymarka231.com.tr/" />
+    <link rel="alternate" hreflang="kk" href="https://flymarka231.com.tr/" />
+    <link rel="alternate" hreflang="ar" href="https://flymarka231.com.tr/" />
+    <link rel="alternate" hreflang="en" href="https://flymarka231.com.tr/" />
+    <link rel="alternate" hreflang="es" href="https://flymarka231.com.tr/" />
+    <link rel="alternate" hreflang="pl" href="https://flymarka231.com.tr/" />
+    <link rel="alternate" hreflang="ua" href="https://flymarka231.com.tr/" />
     <meta name="theme-color" content="#ffffff" />
     <script type="application/ld+json">
       {
