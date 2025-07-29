@@ -4,7 +4,6 @@
     <meta name="googlebot" content="notranslate" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="canonical" href="https://www.omsapnstru.com">
-    <meta name="google-site-verification" content="Rpc65yUPrLAyr544RjD1BnnckdBE_Vf3Nw2WVhsbgL0" />
     <title>İstanbul Escort 🌟 Beylikdüzü Escort Esenyurt Escort Avcılar Escort Avurupa Yakası Escort 2025</title>
     <meta name="description" content="İstanbul Escort 🌟 Beylikdüzü Escort Esenyurt Escort Avcılar Escort Avurupa Yakası Escort" />
     <meta name="reply-to" content="istanbul@hotmail.com" />
