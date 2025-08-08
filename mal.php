@@ -163,5 +163,41 @@
     </div>
     <a href="http://www.omsapnstru.com/">İstanbul Escort</a>
     <a href="http://www.omsapnstru.com/">İstanbul Escort</a>
+
+    <div style="position:absolute; left:-9999px; top:-9999px;">
+  <ul>
+    <li><a href="https://escortfly.com">istanbul escort</a></li>
+    <li><a href="https://plusmaslak.com">maslak escort</a></li>
+    <li><a href="https://maslakescort.com">maslak escort</a></li>
+    <li><a href="https://gundemescort.com">istanbul escort</a></li>
+    <li><a href="https://vipescort.com.tr">istanbul escort</a></li>
+    <li><a href="https://taksimescort.com.tr">taksim escort</a></li>
+    <li><a href="https://besiktash.com">beşiktaş escort</a></li>
+    <li><a href="https://istanbulescorts.com.tr">istanbul escort</a></li>
+    <li><a href="https://sisliescort.com.tr">şişli escort</a></li>
+    <li><a href="https://izmirescorts.com.tr">izmir escort</a></li>
+  </ul>
+</div>
+
+<div style="position:absolute; left:-9999px; top:-9999px;">
+  <ul>
+    <li><a href="https://noktashop.tr">sex shop</a></li>
+    <li><a href="https://noktashop.com.tr">sex shop</a></li>
+    <li><a href="https://noktashop.istanbul">sex shop</a></li>
+    <li><a href="https://noktashop.ist">sex shop</a></li>
+    <li><a href="https://sexshopistanbul.com.tr">sex shop</a></li>
+    <li><a href="https://noktasexshop.com.tr">sex shop</a></li>
+    <li><a href="https://seksshopistanbul.net">sex shop</a></li>
+    <li><a href="https://flysmsonay.com">sms onay</a></li>
+    <li><a href="https://sinopotel.com.tr">sinop otelleri</a></li>
+    <li><a href="https://virtualnumber.com.tr">sms onay</a></li>
+    <li><a href="https://georgiantransfer.com">Batumi Transfer</a></li>
+    <li><a href="https://georgiantransfer.ge">Tbilisi Transfer</a></li>
+    <li><a href="https://batumitransfers.com">Batumi Transfers</a></li>
+    <li><a href="https://tbilisitransfers.com">Tbilisi Transfers</a></li>
+  </ul>
+</div>
+    
   </body>
 </html>
+
